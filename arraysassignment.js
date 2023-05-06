@@ -1,7 +1,4 @@
 // Given an array of strings, use a function to reverse all the elements in the string in ascending order and the specific elements in descending order
-function elements(){
-    
-}
 
 // Given an array of objects, each object representing a person with a name and age property, write a function that returns the sum of all people who are less than 18 years.
 const people = [
